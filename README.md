@@ -14,6 +14,10 @@
 
 ## 📈 GitHub Stats
 ![Ashrith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrithg8704&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashrithg8704&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrithg8704&layout=compact&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ashrithg8704&theme=onedark)
+
 
 ## 📌 Featured Projects
 - 🔸 [Echo-Cast](https://github.com/your-username/Echo-Cast) – Real-time audio/text broadcast platform

@@ -20,7 +20,7 @@
 
 
 ## 📌 Featured Projects
-- 🔸 [Echo-Cast](https://github.com/your-username/Echo-Cast) – Real-time audio/text broadcast platform
+- 🔸 [Sinful-Bites](https://ashrithg8704.github.io/Sinful-Bites/) – Responsive online food delivery website using HTML and CSS
 - 🔸 [Image Encryption Web App](https://github.com/your-username/Image-Encryption-App) – Encrypt images in-browser using JS
 - 🔸 [Hackathon Project](https://github.com/your-username/Encode25-Project) – Stock Aggregator App with React + MUI
 

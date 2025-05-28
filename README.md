@@ -21,18 +21,18 @@
 
 ## 📌 Featured Projects
 - 🔸 [Sinful-Bites](https://ashrithg8704.github.io/Sinful-Bites/) – Responsive online food delivery website using HTML and CSS
-- 🔸 [Image Encryption Web App](https://github.com/your-username/Image-Encryption-App) – Encrypt images in-browser using JS
-- 🔸 [Hackathon Project](https://github.com/your-username/Encode25-Project) – Stock Aggregator App with React + MUI
+- 🔸 [Echo-Cast](https://ashrithg8704.github.io/Echo-Cast/) – Interactive podcast and audio streaming platform with dynamic content loading
+- 🔸 [Netflix-Clone](https://ashrithg8704.github.io/Netflix-Clone/) – Responsive clone website for Netflix which includes the homepage
 
 ## 📜 Certifications
 - 🏅 Google: Generative AI, UI/UX Design
 - 🏅 Cisco: Ethical Hacking
-- 🏅 Coursera: Generative AI
+- 🏅 Coursera: Generative AI, Web Development
 - 🏅 IBM: Cybersecurity (via AICTE + Edunet Foundation)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashrit-guttula/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome)](https://ashrith-guttula.netlify.app)
 
 ---
 
